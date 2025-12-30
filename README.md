@@ -9,7 +9,7 @@
 Radio Mod transforms your Minecraft world into a personalized music experience by adding a fully functional radio block that streams music directly from YouTube. Whether you're building, exploring, or just relaxing in your base, enjoy your favorite tunes without ever leaving the game.
 
 
-## Download here: https://github.com/marcjc1173/radio_mod/releases/tag/RadioMod #
+## Download latest release here: https://github.com/marcjc1173/radio_mod/releases/tag/RadioMod #
 
 ## Main Features
 
