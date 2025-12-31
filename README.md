@@ -1,6 +1,11 @@
 # Radio Mod - Description
 
+<img width="349" height="345" alt="image" src="https://github.com/user-attachments/assets/a141bc27-1d9d-4990-a54c-53996bead027" />
 
+
+Radio Mod - Gameplay --> https://youtu.be/SFb-qStwD5w
+
+[![Radio Mod for Minecraft 1.20.4 - Stream YouTube Music In-Game! 🎵](https://img.youtube.com/vi/SFb-qStwD5w/hqdefault.jpg)](https://www.youtube.com/watch?v=SFb-qStwD5w)
 
 ## Overview
 
